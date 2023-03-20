@@ -1,0 +1,36 @@
+@font-face{
+    font-family: "PlayfairDisplay ItalicAll";
+    src: url(../fonts/playfairDisplay/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family: "PlayfairDisplay";
+    src: url(../fonts/playfairDisplay/PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family: "PlayfairDisplay Bold";
+    src: url(../fonts/playfairDisplay/PlayfairDisplay-Bold.ttf);
+}
+@font-face{
+    font-family: "PlayfairDisplay Medium";
+    src: url(../fonts/playfairDisplay/PlayfairDisplay-Medium.ttf);
+}
+@font-face{
+    font-family: "Gotham Regular";
+    src: url(../fonts/gotham/GothamPro-regular.ttf);
+}
+@font-face{
+    font-family: "Gotham Bold";
+    src: url(../fonts/gotham/gothampro-bold.ttf);
+}
+@font-face{
+    font-family: "Gotham Medium";
+    src: url(../fonts/gotham/gothampro-medium.ttf);
+}
+@font-face{
+    font-family: "Gotham Black";
+    src: url(../fonts/gotham/gothampro-black.ttf);
+}
+@font-face{
+    font-family: "Gotham Light";
+    src: url(../fonts/gotham/gothampro-light.ttf);
+}
