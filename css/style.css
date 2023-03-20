@@ -715,7 +715,20 @@ ul{
     }
 }
 @media(max-width:425px){
-    
+    .about-us__text {
+        font-family: "Gotham Medium";
+        color: #303030;
+        font-size: 16px;
+        line-height: 32px;
+        text-align: justify;
+        font-stretch: condensed;
+        text-align-last: center;
+    }
+    .about-us__text b {
+        
+        font-family: "Gotham Bold";
+    }
+
     .header__menu{
         width: 100vw;
     }
@@ -772,7 +785,7 @@ ul{
         font-weight: 600;
     }
     .our-brands__text b{
-        font-family: "Gotham Black";
+        font-family: "Gotham Bold";
         font-size: 20px;
         color: #303030;
         text-transform: uppercase;
@@ -790,7 +803,7 @@ ul{
         display: flex;
         align-items: center;
         text-transform: uppercase;
-        font-family: "Gotham Black";
+        font-family: "Gotham Bold";
         font-size: 65px;
         color: #a70c11;
         line-height: 45px;
